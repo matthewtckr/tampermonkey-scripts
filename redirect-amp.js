@@ -15,7 +15,7 @@
     if ( links ) {
         var ampLinks = Array.prototype.filter.call(links, function(elem) { return elem.rel == "amphtml";});
         if ( ampLinks && Array.isArray( ampLinks ) && ampLinks.length > 0 ) {
-            if ( ampLinks[0].href ) {
+            if ( ampLinks[0].href && self.location !== ampLinks[0].href ) {
                 self.location = ampLinks[0].href;
             }
         }
