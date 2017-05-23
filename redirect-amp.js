@@ -7,6 +7,8 @@
 // @match        *://*/*
 // @exclude      https://www.nytimes.com/*
 // @grant        none
+// @downloadURL  https://raw.githubusercontent.com/matthewtckr/tampermonkey-scripts/master/redirect-amp.js
+// @updateURL    https://raw.githubusercontent.com/matthewtckr/tampermonkey-scripts/master/redirect-amp.js
 // ==/UserScript==
 
 (function() {
