@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         Redirect to AMP pages
-// @namespace    http://github.com/matthewtckr/tamper-scripts
+// @namespace    http://github.com/matthewtckr/tampermonkey-scripts
 // @version      0.1
 // @description  Redirect articles to AMP pages
 // @author       Matt Tucker
 // @match        *://*/*
+// @exclude      https://www.nytimes.com/*
 // @grant        none
 // ==/UserScript==
 
