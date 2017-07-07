@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         Redirect to AMP pages
 // @namespace    https://rawgit.com/matthewtckr/tampermonkey-scripts
-// @version      0.2.1
+// @version      0.2.2
 // @description  Redirect articles to AMP pages
 // @author       Matt Tucker
 // @match        *://*/*
 // @exclude      https://www.nytimes.com/*
 // @exclude      http://www.nydailynews.com/amp/*
+// @exclude      http://www.reddit.com/*
 // @grant        none
 // @downloadURL  https://rawgit.com/matthewtckr/tampermonkey-scripts/master/redirect-amp.js
 // @updateURL    https://rawgit.com/matthewtckr/tampermonkey-scripts/master/redirect-amp.js
