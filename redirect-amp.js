@@ -8,6 +8,7 @@
 // @exclude      https://www.nytimes.com/*
 // @exclude      http://www.nydailynews.com/amp/*
 // @exclude      https://www.reddit.com/*
+// @exclude      https://www.brentozar.com/*
 // @grant        none
 // @downloadURL  https://rawgit.com/matthewtckr/tampermonkey-scripts/master/redirect-amp.js
 // @updateURL    https://rawgit.com/matthewtckr/tampermonkey-scripts/master/redirect-amp.js
