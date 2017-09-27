@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Redirect to AMP pages
 // @namespace    https://rawgit.com/matthewtckr/tampermonkey-scripts
-// @version      0.2.4
+// @version      0.2.5
 // @description  Redirect articles to AMP pages
 // @author       Matt Tucker
 // @match        *://*/*
